@@ -1,4 +1,4 @@
-# gallary2
+# ImageShown
 
 A new Flutter project.
 
